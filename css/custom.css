@@ -1,0 +1,49 @@
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* header */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.navbar-brand img{
+	width: 28px; height: auto;
+	margin: 0px 5px; padding: 0px;
+	border-radius: 14px;
+}
+
+/* ---------------------------------------------------------------------------------------------------------------- */
+/* main */
+/* ---------------------------------------------------------------------------------------------------------------- */
+.main {
+	width: 100vw;
+  	height: 155vh;
+	background-color: lightgray;
+}
+.container {
+	padding-top: 60px;
+}
+.text-center {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	font-style:oblique;
+}
+.card-name {
+	display: block;
+	margin: 0 auto;
+}
+.card {
+	display: block;
+	margin: 0 auto;
+	padding-bottom: 10px;
+}
+.btn {
+	margin-top: 40px;
+}
+
+.title {
+	font-size: larger;
+	font-style:oblique;
+}
+.inner {
+	font-style:oblique;
+}
+.text-inner span {
+	color: red;
+	border-bottom: dotted 2px rgb(199, 25, 25);
+}
